@@ -216,3 +216,109 @@ footer {
     margin-top: 30px;
     clear: both;
 }
+@media screen and (max-width:980px) {
+    #mainContent {
+        width: 620px;
+    }
+    #middlecontent {
+        width: 630px;
+        height:769px
+    }
+    #portfoliopic1 {
+        width: 245px;
+    }  
+    #portfoliopic2 {
+        width: 245px;
+    } 
+    #portfoliopic3 {
+        width: 245px;
+    } 
+    .textblock1 {
+        width: 300px;
+        left: 195px;
+    }
+    .textblock2 {
+        width: 300px;
+        left: 502px;
+    }
+    .textblock3 {
+        width: 300px;
+        left: 195px;
+    }
+    .textblock4 {
+        width: 300px;
+        left: 502px;
+    }
+    .textblock5 {
+        width: 300px;
+        left: 195px;
+    }
+    #image {
+        margin-left: 2px;
+        margin-top: 2px;
+    }
+    #box_contact {
+        width: 570px;
+    }
+    #box_expand {
+        width: 570px;
+    }
+   }
+   @media screen and (max-width:768 px) {
+    #mainContent {
+        width: 550px;
+        margin: auto;
+    }
+    #middlecontent {
+        width: 550px;
+        height:769px
+        margin: auto;
+    }
+    #portfoliopic1 {
+        width: 177px;
+    }  
+    #portfoliopic2 {
+        width: 177px;
+    } 
+    #portfoliopic3 {
+        width: 177px;
+    } 
+    .textblock1 {
+        width: 200px;
+        left: 105px;
+    }
+    .textblock2 {
+        width: 200px;
+        left: 502px;
+    }
+    .textblock3 {
+        width: 200px;
+        left: 105px;
+    }
+    .textblock4 {
+        width: 200px;
+        left: 502px;
+    }
+    .textblock5 {
+        width: 200px;
+        left: 195px;
+    }
+    #image {
+        margin-left: 2px;
+        margin-top: 2px;
+    }
+    #box_contact {
+        width: 590px;
+    }
+    #box_expand {
+        width: 590px;
+    }
+   }
+   @media screen and (max-width:640 px) {
+    body {
+       background-color: #333;
+    }
+    .wrapper {
+       width: 600px;
+     }
+   }
